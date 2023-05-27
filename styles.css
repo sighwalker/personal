@@ -21,7 +21,6 @@ html{
 }
 
 .top .kao, .top .links {
-  font-size: 26px;
   padding-bottom: 10px;
 }
 
@@ -37,7 +36,7 @@ html{
   margin: 0 10px;
 }
 
-.gen h2 {
+.gen h3 {
   color: rgb(211, 214, 216);
   margin-bottom: 10px;
   padding-left: 20px;
