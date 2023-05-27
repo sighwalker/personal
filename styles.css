@@ -6,6 +6,10 @@ body, h1, h2, h3, p, a {
   color: aliceblue;
 }
 
+html{
+  scroll-behavior: smooth;
+}
+
 /* Container styles */
 .top {
   background-color: rgb(16, 24, 37);
@@ -56,6 +60,10 @@ hr {
 }
 
 /* Styling the anchor links */
+a{
+  transition: all 0.5s;
+}
+
 a:link,
 a:visited {
   color: aliceblue;
